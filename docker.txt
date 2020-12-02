@@ -1,0 +1,8 @@
+docker version is the command to check the version of docker which installed on your local machine
+		docker version
+		
+docker cli:- cli is also called client it is the tool that we are going to issue commands and it actually doesnt do anything with container and images this is help to interact with the another peice of software that called docker server 
+	docker server is also called docker daemon
+docker server:- this is actually a peice of software responsible for craeting containers images maintaining containers uploading images and everything possibly maching around the world of docker
+	
+	behind the scenes 
